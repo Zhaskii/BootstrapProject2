@@ -1,0 +1,32 @@
+.boss{
+    height: 100vh;
+    background: linear-gradient(#00000085, #0000007d) ,url(https://nepalwanders.com/wp-content/uploads/2023/08/4-1.jpg);
+    background-size: cover;
+}
+.logo{
+    width: 120px;
+}
+.navbar-expand-lg .navbar-nav .nav-link{
+    color: #fff;
+}
+.pic img{
+    height: 220px;
+}
+.hero{
+    height: 100vh;
+    background: linear-gradient(#00000068, #00000064) ,url(https://nepalwanders.com/wp-content/themes/nepalwanders/img/youtube.jpg);
+    background-size: cover;
+}
+.circle{
+    width: 80px;
+    height: 80px;
+    background: wheat;
+    border-radius: 50%;
+    margin: auto;
+    line-height: 80px;
+}
+.circle i{
+    color: orange;
+    font-size: 40px;
+}
+
